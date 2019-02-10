@@ -1,0 +1,1 @@
+For this level, I used a simple script on Python 3
